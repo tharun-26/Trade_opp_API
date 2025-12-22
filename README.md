@@ -1,16 +1,4 @@
 
-# Trade Opportunities API
-
-FastAPI service that analyzes Indian market sectors and returns AI-generated trade opportunity reports in Markdown format.
-
-## Features
-- FastAPI backend
-- Google Gemini AI integration
-- JWT Authentication
-- Rate limiting
-- In-memory storage
-- Markdown report output
-
 ## Setup
 ```bash
 pip install -r requirements.txt
