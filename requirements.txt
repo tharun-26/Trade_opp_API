@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+python-jose
+httpx
+slowapi
+pydantic
